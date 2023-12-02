@@ -28,6 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Contador e um programa que ira contar seus dias estudador e guardar a informação no Local Storage do navegador.
 
-- [Acesse o projeto em fase beta, online](https://leonardops.github.io/contadorDiasDeEstudo)
-
 ---
